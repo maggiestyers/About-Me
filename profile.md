@@ -1,8 +1,7 @@
 ------
-layout:post
-Title:First Post
+ABout 
 -----
 
 This is my **first post**
 
-![Profile Picture](https://github.com/maggiestyers/About-Me/blob/master/images/MeAndAsh.jpeg)
+![Profile Picture](https://maggiestyers.github.io/maggiestyers/images/MeAndAsh.jpg)
