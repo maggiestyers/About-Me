@@ -1,1 +1,15 @@
-ye
+# Grant Process Blog Post Two
+---
+I’ve been using this project as an excuse to reread *We Were Liars* by E. Lockhart to make sure everything I’m doing is completely novel accurate. For the map, Cadence’s grandfather, Harris Sinclair, owns Beechwood Island, which is near Martha’s Vineyard. His house is called Clairmont where he resides with his wife and dogs, and he built another house for each of his daughters.
+
+I had to make sure I got these details entirely correct when planning the map. When Clairmont burns to the ground, Harris Sinclair has New Clairmont built. Cadence and her mother, the Eastmans, live in Windemere, Cuddledown belongs to Cadence’s Aunt Bess Sheffield and her family, and Red Gate is where her Aunt Carrie and the Dennises live. Their family is dysfunctional and often selfish, while appearing perfect on the outside. The flawless exterior only works to hide the imperfections within the family. They just don’t talk about the divorces and money issues, they just lie and ignore each other, except for every summer when they come together. 
+
+![BeechWood Island](https://github.com/maggiestyers/About-Me/blob/master/Images/BeechWoodIsland.jpg?raw=true )
+
+The family dock is on the South Eastern shore of the island, while the staff dock faces Martha’s Vineyard to the West. Windemere is at the top of the island, the farthest North. Clairmont (and New Clairmont) are the farthest Southern. To the East of Clairmont is the family dock and then Red Gate. More northern than Red Gate is Cuddledown and finally Windemere at the top. The staff building and boat house are a bit west of Clairmont. There’s a tennis court in the West, by the staff dock. There is a wooden walkway that connects all of the houses and buildings. All of these details were important for creating an accurate, interactive map of the island. 
+
+There are drawn maps of the island, like the one above, from Wordpress, but I think that creating one more styled like a Google Maps with a street view would be more interesting for a reader. The ability to walk through the island would be incomparable for a reader of this beloved novel. That’s my main goal for the project. 
+
+Visualizing the map of the storyline was a little more difficult. Putting Cadence’s memories back into chronological order works because of the dates. I can imagine the outcome being successful on the website platform Wordpress for both the map and reordering. Despite my initial fear, the budgeting was quite simple to accomplish because there isn’t much to this website. 
+
+This novel is so transformative for the audience that it’s aimed for. It tackles mental health such as ptsd and depression. Readers that have been through similar pain may be able to find healing and peace within themselves by relating to Cadence. Lockhart herself struggled with migraines and memory loss herself so this novel was near and dear to her. A book like this has the power to help many young readers suffering from similar trauma. That was E. Lockhart’s goal and it’s my goal as well. 
